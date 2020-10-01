@@ -1,0 +1,89 @@
+body {
+	background: #F2ED91;
+}
+
+.burger {
+	font-style: italic;
+	font-size: 40px;
+	color: #FFA6B0;
+}
+
+.name{
+	font-style:italic;
+}
+
+#dogs{
+	font-style: italic;
+	font-size: 30px;
+	color: #79DB89;
+}
+
+#corn{
+	font-style: italic;
+	font-size: 30px;
+	color: #DEAB6F;
+}
+
+#menu{
+	font-size: 40px;
+	text-align:center;
+}
+
+p {
+	font-size:26px;
+}
+
+article{
+	border-style:solid;
+	border-width: 5px;
+  	border-radius: 5px;
+  	margin: 5px;
+  	padding: 10px;
+  	background-color:white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #B8EBFC;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 3px solid black;
+  background-color:white;
+}
+
+table {
+  width: 74%;
+}
+
+th {
+  height: 80px;
+}
+
+td {
+	width: 70px;
+	padding: 10px;
+}
+
